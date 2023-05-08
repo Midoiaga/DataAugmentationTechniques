@@ -1,13 +1,13 @@
 # DataAugmentationTechniques
 In this repository some data augmentation techniques for machine translation are uploaded and are compared between them.
 
-## CorpusEnlargement.ipynb:
+## CorpusEnlargement.ipynb
 In this notebook we can find how we have create each data with the different techniques.
 
-## Data _ Models Summary.xlsx:
+## Data _ Models Summary.xlsx
 In this .xlsx file we can check a little summary of each tecnique in this project.
 
-## DataVisualization.ipynb:
+## DataVisualization.ipynb
 In this notebook we can find some methods to visualize our results
 
 ## Model X
